@@ -1,0 +1,15 @@
+{
+    "name": "wikiscrape",
+    "version": "1.0.0",
+    "main": "scrape.js",
+    "cli": "cli.js",
+    "license": "MIT",
+    "dependencies": {
+        "puppeteer": "^3.0.4"
+    },
+    "author": {
+        "name": "Smint",
+        "email": "smintoverflow@gmail.com",
+        "url": "http://smintgaming.github.io/"
+    }
+}
